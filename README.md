@@ -1,5 +1,6 @@
 # CXO_and_GOES_analyses
-![image](https://user-images.githubusercontent.com/76570532/140928859-e3cfc9af-22ab-4df2-a634-492af8153737.png)
+![image](https://user-images.githubusercontent.com/76570532/140928859-e3cfc9af-22ab-4df2-a634-492af8153737.png) ![image](https://user-images.githubusercontent.com/76570532/140928988-f7546a29-08ad-4c85-b634-611a5586531f.png)
+
 
 Python code mapping and analysing Jupiter's X-ray emissions using Chandra HRC-I observations. The mapping algorithm is adapted from https://github.com/waledeigt/zeno-py and contains some minor changes regarding the selection process of jovian photons. 
 
